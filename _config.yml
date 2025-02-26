@@ -1,3 +1,4 @@
-theme: minima
+# theme: minima
+remote_theme: jekyll-theme-chirpy
 title: GitHub pages skills
 author: Chiatse Wang
